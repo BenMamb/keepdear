@@ -1,6 +1,6 @@
 # keepdear
 
-This is. the summary of my project idea
+This is the summary of my project idea
 [Summary.md](https://github.com/BenMamb/keepdear/files/10222244/Summary.md)
 
 The followings are my data resources I extracted from NYC Open Data Website
